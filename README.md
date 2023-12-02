@@ -1,2 +1,0 @@
-# AngularTraining
-AngularTraining
